@@ -1,1 +1,2 @@
-# WEB
+# Hanul Haiducilor
+![](rrr.jpg)
